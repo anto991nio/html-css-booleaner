@@ -23,3 +23,16 @@ body {
 .evidenzia{
     background-color: yellow;
 }
+
+.su{
+    background-color: rgb(32, 169, 229  );
+    color: white;
+}
+.tab-top{
+    display: inline-block;
+    width: 32%;
+}
+
+.colorato{
+    background-color: rgb(177, 229, 242);
+}
