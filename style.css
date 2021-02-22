@@ -38,3 +38,24 @@ body {
 .colorato{
     background-color: rgb(177, 229, 242);
 }
+
+#final{
+    color: grey;
+}
+
+.contenitore{
+    width: 300px;
+    height: 300px;
+}
+
+#monitor {
+    background-image: url(monitor.jpg);
+    background-size: cover;
+    color: white;
+}
+
+#grafico{
+    background-image: url(graph.jpg);
+    color: white;
+
+}
