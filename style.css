@@ -1,0 +1,14 @@
+body{
+    
+}
+
+.pattern {
+    background-image: url(pattern.png);
+    background-color: rgb(78    , 160, 255);
+    background-size: contain;
+}
+
+#written {
+    color: rgb(112, 200, 238 );
+}
+
