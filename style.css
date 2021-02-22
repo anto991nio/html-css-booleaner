@@ -12,6 +12,10 @@ body {
     height: 100px;
 }
 
+#logo{
+    height: 50px;
+}
+
 
 #written {
     color: rgb(112, 200, 238 );
@@ -57,5 +61,6 @@ body {
 #grafico{
     background-image: url(graph.jpg);
     color: white;
+
 
 }
